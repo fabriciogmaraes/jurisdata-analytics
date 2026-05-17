@@ -17,14 +17,15 @@ Python 3.13 · PostgreSQL · Power BI · spaCy · BERTimbau · Gemini API
 ### Fases
 
 - [x] Fase 1 — Ingestão de dados (API CNJ DataJud → PostgreSQL)
-- [ ] Fase 2 — Modelagem relacional (dimensões, views, feature store)
+- [x] Fase 2 — Modelagem relacional (star schema, views analíticas, feature store)
 - [ ] Fase 3 — NLP e clustering de decisões
 - [ ] Fase 4 — Pareceres automáticos com LLM
 - [ ] Fase 5 — Dashboard executivo no Power BI
 
 ### Dados
 
-40.232 processos · Classe 985 (Ação Trabalhista - Rito Ordinário) · Período 2018–2024 · TRT-21/RN
+40.232 processos · Classe 985 (Ação Trabalhista - Rito Ordinário) · Período 2018–2024 · TRT-21/RN  
+Star schema: 3 dimensões · 1 tabela fato · 3 views analíticas · Feature store (40.154 registros)
 
 ### Autor
 
@@ -45,14 +46,15 @@ Python 3.13 · PostgreSQL · Power BI · spaCy · BERTimbau · Gemini API
 ### Phases
 
 - [x] Phase 1 — Data ingestion (CNJ DataJud API → PostgreSQL)
-- [ ] Phase 2 — Relational modeling (dimensions, views, feature store)
+- [x] Phase 2 — Relational modeling (star schema, analytical views, feature store)
 - [ ] Phase 3 — NLP and decision clustering
 - [ ] Phase 4 — Automated legal briefs with LLM
 - [ ] Phase 5 — Executive dashboard in Power BI
 
 ### Data
 
-40,232 cases · Class 985 (Labor Lawsuit - Ordinary Rite) · Period 2018–2024 · TRT-21/RN
+40,232 cases · Class 985 (Labor Lawsuit - Ordinary Rite) · Period 2018–2024 · TRT-21/RN  
+Star schema: 3 dimensions · 1 fact table · 3 analytical views · Feature store (40,154 records)
 
 ### Author
 
