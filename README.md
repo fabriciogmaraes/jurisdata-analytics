@@ -12,7 +12,7 @@ Pipeline de jurimetria trabalhista aplicado às decisões do TRT-21 (Rio Grande 
 
 ### Stack
 
-Python 3.13 · PostgreSQL · Power BI · spaCy · BERTimbau · Gemini API
+Python 3.13 · PostgreSQL · Power BI · spaCy · BERTimbau · Groq API
 
 ### Fases
 
@@ -44,7 +44,7 @@ Labor litigation analytics pipeline applied to decisions from TRT-21 (Rio Grande
 
 ### Stack
 
-Python 3.13 · PostgreSQL · Power BI · spaCy · BERTimbau · Gemini API
+Python 3.13 · PostgreSQL · Power BI · spaCy · BERTimbau · Groq API
 
 ### Phases
 
