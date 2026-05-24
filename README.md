@@ -31,6 +31,7 @@ Power BI: 3 telas · Panorama geral · Análise de clusters · Calculadora de ri
 
 ### Estrutura do projeto
 
+```text
 jurisdata/
 ├── notebooks/
 │   ├── 01_ingestion.ipynb        # Ingestão API DataJud → PostgreSQL
@@ -44,6 +45,7 @@ jurisdata/
 │   └── JurisData.pbix            # Dashboard Power BI (3 telas)
 ├── .env.example                  # Variáveis de ambiente necessárias
 └── README.md
+```
 
 ### Pré-requisitos
 
@@ -114,6 +116,7 @@ Power BI: 3 pages · General overview · Cluster analysis · Labor risk calculat
 
 ### Project structure
 
+```text
 jurisdata/
 ├── notebooks/
 │   ├── 01_ingestion.ipynb        # DataJud API ingestion → PostgreSQL
@@ -127,6 +130,7 @@ jurisdata/
 │   └── JurisData.pbix            # Power BI dashboard (3 pages)
 ├── .env.example                  # Required environment variables
 └── README.md
+```
 
 ### Prerequisites
 
