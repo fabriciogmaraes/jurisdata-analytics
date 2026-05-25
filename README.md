@@ -41,8 +41,8 @@ jurisdata/
 ├── outputs/
 │   └── figures/
 │       └── clusters_pca_2d.png   # Visualização 2D dos clusters
-├── dashboard/
-│   └── JurisData.pbix            # Dashboard Power BI (3 telas)
+├── powerbi/
+│   └── Jurisdata Dashboard.pbix  # Dashboard Power BI (3 telas)
 ├── .env.example                  # Variáveis de ambiente necessárias
 └── README.md
 ```
@@ -126,8 +126,8 @@ jurisdata/
 ├── outputs/
 │   └── figures/
 │       └── clusters_pca_2d.png   # 2D cluster visualization
-├── dashboard/
-│   └── JurisData.pbix            # Power BI dashboard (3 pages)
+├── powerbi/
+│   └── Jurisdata Dashboard.pbix  # Power BI dashboard (3 pages)
 ├── .env.example                  # Required environment variables
 └── README.md
 ```
